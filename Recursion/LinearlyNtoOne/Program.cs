@@ -12,7 +12,6 @@
         if (count < 1)
         {
             return;
-            
         }
         Console.WriteLine(count);
         count--;
